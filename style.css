@@ -1,0 +1,18 @@
+@page {
+  margin: 3em;
+  size: 210mm 297mm;
+}
+
+html,body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 18px;
+}
+
+h1 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+hr {
+    page-break-after: always;
+    border: none;
+}
